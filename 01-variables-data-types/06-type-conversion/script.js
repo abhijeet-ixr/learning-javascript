@@ -51,5 +51,4 @@ isValid = false;
 console.log(parseInt(isValid));
 
 // More on comments can be read at:
-// https://www.w3schools.com/js/js_datatypes.asp
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+// https://www.w3schools.com/js/js_type_conversion.asp
