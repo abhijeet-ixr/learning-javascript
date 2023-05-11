@@ -1,0 +1,9 @@
+{
+  "firstName": "dummy",
+  "lastName": "user",
+  "age": 18,
+  "address": {
+    "lat": 12.34,
+    "long": -11.22
+  }
+}
